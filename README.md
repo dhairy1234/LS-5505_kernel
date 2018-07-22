@@ -1,1 +1,1 @@
-# android_kernel_lyf_mobee01a_msm8939_64
+# android_kernel_lyf_mobee01a_msm8952_64
